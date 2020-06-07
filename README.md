@@ -19,12 +19,12 @@ Week:: [[June 8th, 2020]]
 ## [[Weekly Habits]]
     -
 ## Daily Goals
-  - Monday: [[monday]]
-  - Tuesday: [[tuesday]]
-  - Wednesday: [[wednesday]]
-  - Thursday: [[thursday]]
-  - Friday: [[friday]]
-  - Saturday: [[saturday]]
-  - Sunday: [[sunday]]
+  - Monday: [[June 8th, 2020]]
+  - Tuesday: [[June 9th, 2020]]
+  - Wednesday: [[June 10th, 2020]]
+  - Thursday: [[June 11th, 2020]]
+  - Friday: [[June 12th, 2020]]
+  - Saturday: [[June 13th, 2020]]
+  - Sunday: [[June 14th, 2020]]
 ```	
   
