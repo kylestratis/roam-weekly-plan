@@ -34,7 +34,7 @@ Week:: [[{monday}]]
   - Friday: [[friday]]
   - Saturday: [[saturday]]
   - Sunday: [[sunday]]
-	""".format(
+    """.format(
         monday=week[0],
         tuesday=week[1],
         wednesday=week[2],
@@ -48,4 +48,3 @@ Week:: [[{monday}]]
 
 s = generate_template()
 sys.stdout.write(s)
-
