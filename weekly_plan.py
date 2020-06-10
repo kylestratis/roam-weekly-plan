@@ -25,15 +25,15 @@ def generate_template():
 Week:: [[{monday}]]
 ## Top Weekly Goals
 ## [[Weekly Habits]]
-    -
+    
 ## Daily Goals
-  - Monday: [[{monday}]]
-  - Tuesday: [[{tuesday}]]
-  - Wednesday: [[{wednesday}]]
-  - Thursday: [[{thursday}]]
-  - Friday: [[{friday}]]
-  - Saturday: [[{saturday}]]
-  - Sunday: [[{sunday}]]
+    Monday: [[{monday}]]
+    Tuesday: [[{tuesday}]]
+    Wednesday: [[{wednesday}]]
+    Thursday: [[{thursday}]]
+    Friday: [[{friday}]]
+    Saturday: [[{saturday}]]
+    Sunday: [[{sunday}]]
     """.format(
         monday=week[0],
         tuesday=week[1],
