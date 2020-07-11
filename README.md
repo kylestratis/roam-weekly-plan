@@ -15,6 +15,7 @@ at in this repo.
 An example output looks like this: 
 ```
 Week:: [[June 8th, 2020]]
+Weekly Review:: [[Weekly Review June 8th, 2020]]
 ## Top Weekly Goals
 ## [[Weekly Habits]]
     -
