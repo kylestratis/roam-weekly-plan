@@ -23,6 +23,7 @@ def generate_template():
     week = next_week()
     template = """
 Week:: [[{monday}]]
+Weekly Review:: [[Weekly Review {monday}]]
 ## Top Weekly Goals
 ## [[Weekly Habits]]
     
