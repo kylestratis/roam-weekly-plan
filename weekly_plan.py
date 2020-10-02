@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import sys
 import datetime
 
@@ -24,9 +25,14 @@ def generate_template():
     template = """
 Week:: [[{monday}]]
 Weekly Review:: [[Weekly Review {monday}]]
-## Top Weekly Goals
-## [[Weekly Habits]]
-    
+## Pages to Reference
+    Go through these to find priorities for upcoming week.
+    [[TODO]]
+    [[Goals]]
+    [[📝 Projects]]
+    [[📓 Article Ideas]]
+    [[🧠 Research]]
+## Top Priorities
 ## Daily Goals
     Monday: [[{monday}]]
     Tuesday: [[{tuesday}]]
@@ -35,6 +41,48 @@ Weekly Review:: [[Weekly Review {monday}]]
     Friday: [[{friday}]]
     Saturday: [[{saturday}]]
     Sunday: [[{sunday}]]
+## [[Daily Habits]]
+    If these have a daily notes attribute, add what you did to those.
+    [[Meditate]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    [[Exercise]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    [[Read]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    [[Greek]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    [[Bass]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
     """.format(
         monday=week[0],
         tuesday=week[1],

@@ -14,18 +14,34 @@ at in this repo.
 ## Output
 An example output looks like this: 
 ```
-Week:: [[June 8th, 2020]]
-Weekly Review:: [[Weekly Review June 8th, 2020]]
-## Top Weekly Goals
-## [[Weekly Habits]]
-    -
+Week:: [[October 5th, 2020]]
+Weekly Review:: [[Weekly Review October 5th, 2020]]
+## Pages to Reference
+    Go through these to find priorities for upcoming week.
+    [[TODO]]
+    [[Goals]]
+    [[📝 Projects]]
+    [[📓 Article Ideas]]
+    [[🧠 Research]]
+## Top Priorities
 ## Daily Goals
-  - Monday: [[June 8th, 2020]]
-  - Tuesday: [[June 9th, 2020]]
-  - Wednesday: [[June 10th, 2020]]
-  - Thursday: [[June 11th, 2020]]
-  - Friday: [[June 12th, 2020]]
-  - Saturday: [[June 13th, 2020]]
-  - Sunday: [[June 14th, 2020]]
+    Monday: [[October 5th, 2020]]
+    Tuesday: [[October 6th, 2020]]
+    Wednesday: [[October 7th, 2020]]
+    Thursday: [[October 8th, 2020]]
+    Friday: [[October 9th, 2020]]
+    Saturday: [[October 10th, 2020]]
+    Sunday: [[October 11th, 2020]]
+## [[Daily Habits]]
+    If these have a daily notes attribute, add what you did to those.
+    [[Meditate]]
+        {{[[TODO]]}} [[October 5th, 2020]]
+        {[[TODO]]} [[October 6th, 2020]]
+        {[[TODO]]} [[October 7th, 2020]]
+        {[[TODO]]} [[October 8th, 2020]]
+        {[[TODO]]} [[October 9th, 2020]]
+        {[[TODO]]} [[October 10th, 2020]]
+        {[[TODO]]} [[October 11th, 2020]]
+    [More habits here...]
 ```	
   
