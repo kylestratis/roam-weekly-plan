@@ -43,6 +43,22 @@ Weekly Review:: [[Weekly Review {monday}]]
     Sunday: [[{sunday}]]
 ## [[Daily Habits]]
     If these have a daily notes attribute, add what you did to those.
+    Process "Things to Process"
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    Process Reading Inboxes
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    Research One Research Topic
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
     [[Meditate]]
         {{{{[[TODO]]}}}} [[{monday}]]
         {{{{[[TODO]]}}}} [[{tuesday}]]
