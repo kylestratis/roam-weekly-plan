@@ -44,4 +44,5 @@ Weekly Review:: [[Weekly Review October 5th, 2020]]
         {[[TODO]]} [[October 11th, 2020]]
     [More habits here...]
 ```	
-  
+
+Enjoyed this workflow? [Buy me a beer!](https://www.buymeacoffee.com/kylestratis)
