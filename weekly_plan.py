@@ -43,7 +43,7 @@ Weekly Review:: [[Weekly Review {monday}]]
     Sunday: [[{sunday}]]
 ## [[Daily Habits]]
     If these have a daily notes attribute, add what you did to those.
-    Process "Things to Process"
+    Process "Things to Process" and Writing Inbox
         {{{{[[TODO]]}}}} [[{monday}]]
         {{{{[[TODO]]}}}} [[{wednesday}]]
         {{{{[[TODO]]}}}} [[{friday}]]
