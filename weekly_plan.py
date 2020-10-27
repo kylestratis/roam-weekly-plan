@@ -99,6 +99,8 @@ Weekly Review:: [[Weekly Review {monday}]]
         {{{{[[TODO]]}}}} [[{friday}]]
         {{{{[[TODO]]}}}} [[{saturday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
+	Update public mind garden
+        {{{{[[TODO]]}}}} [[{saturday}]]
     """.format(
         monday=week[0],
         tuesday=week[1],
