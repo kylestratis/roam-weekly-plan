@@ -58,7 +58,7 @@ Weekly Review:: [[Weekly Review {monday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
     Research One Research Topic
         {{{{[[TODO]]}}}} [[{tuesday}]]
-        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
     [[Meditate]]
         {{{{[[TODO]]}}}} [[{monday}]]
         {{{{[[TODO]]}}}} [[{tuesday}]]
