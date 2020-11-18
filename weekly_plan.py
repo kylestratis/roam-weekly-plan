@@ -30,9 +30,11 @@ Weekly Review:: [[Weekly Review {monday}]]
     [[TODO]]
     [[Goals]]
     [[📝 Projects]]
+    [[🎥 Video Ideas]]
     [[📓 Article Ideas]]
     [[🧠 Research]]
 ## Top Priorities
+	1 article or video, 1 project, 1-2 books from above. Individual tasks filter to daily goals.
 ## Daily Goals
     Monday: [[{monday}]]
     Tuesday: [[{tuesday}]]
