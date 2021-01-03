@@ -61,7 +61,7 @@ Weekly Review:: [[Weekly Review {monday}]]
     Research One Research Topic
         {{{{[[TODO]]}}}} [[{tuesday}]]
         {{{{[[TODO]]}}}} [[{saturday}]]
-    [[Meditate]]
+    [[Practice Elixir]]
         {{{{[[TODO]]}}}} [[{monday}]]
         {{{{[[TODO]]}}}} [[{tuesday}]]
         {{{{[[TODO]]}}}} [[{wednesday}]]
