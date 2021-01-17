@@ -1,5 +1,4 @@
-# roam-weekly-plan
-Alfred workflow that generates a Roam weekly plan template
+<img src="image.png" height=400>
 
 This workflow allows you to use a snippet trigger with [Alfred](https://www.alfredapp.com/) to generate
 a weekly plan template for the next week as described by [Nat Eliason](https://www.nateliason.com) in his
