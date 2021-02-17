@@ -48,7 +48,7 @@ Weekly Review:: [[Weekly Review {monday}]]
     Process "Things to Process" and Writing Inbox
         {{{{[[TODO]]}}}} [[{monday}]]
         {{{{[[TODO]]}}}} [[{wednesday}]]
-        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
     Process Reading Inboxes
         {{{{[[TODO]]}}}} [[{monday}]]
