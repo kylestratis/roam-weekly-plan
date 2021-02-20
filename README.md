@@ -34,7 +34,7 @@ Weekly Review:: [[Weekly Review October 5th, 2020]]
     Sunday: [[October 11th, 2020]]
 ## [[Daily Habits]]
     If these have a daily notes attribute, add what you did to those.
-    [[Practice Elixir]]
+    Habit 1
         {{[[TODO]]}} [[October 5th, 2020]]
         {[[TODO]]} [[October 6th, 2020]]
         {[[TODO]]} [[October 7th, 2020]]
