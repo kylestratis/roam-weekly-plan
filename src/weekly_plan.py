@@ -61,14 +61,6 @@ Weekly Review:: [[Weekly Review {monday}]]
     Research One Research Topic
         {{{{[[TODO]]}}}} [[{tuesday}]]
         {{{{[[TODO]]}}}} [[{saturday}]]
-    [[Practice Elixir]]
-        {{{{[[TODO]]}}}} [[{monday}]]
-        {{{{[[TODO]]}}}} [[{tuesday}]]
-        {{{{[[TODO]]}}}} [[{wednesday}]]
-        {{{{[[TODO]]}}}} [[{thursday}]]
-        {{{{[[TODO]]}}}} [[{friday}]]
-        {{{{[[TODO]]}}}} [[{saturday}]]
-        {{{{[[TODO]]}}}} [[{sunday}]]
     [[Exercise]]
         {{{{[[TODO]]}}}} [[{monday}]]
         {{{{[[TODO]]}}}} [[{tuesday}]]
@@ -101,7 +93,9 @@ Weekly Review:: [[Weekly Review {monday}]]
         {{{{[[TODO]]}}}} [[{friday}]]
         {{{{[[TODO]]}}}} [[{saturday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
-	Update public mind garden
+    Work on newsletter
+        {{{{[[TODO]]}}}} [[{friday}]]
+    Update public mind garden
         {{{{[[TODO]]}}}} [[{saturday}]]
     """.format(
         monday=week[0],
