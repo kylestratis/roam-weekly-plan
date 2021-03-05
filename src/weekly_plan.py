@@ -54,7 +54,7 @@ Weekly Review:: [[Weekly Review {monday}]]
         {{{{[[TODO]]}}}} [[{saturday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
     Habit 2 - Weekend example
-        {{{{[[TODO]]}}}} [[{saturay}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
     Habit 3 - Once a week example
         {{{{[[TODO]]}}}} [[{wednesday}]]
