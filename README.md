@@ -9,7 +9,14 @@ excellent [Effortless Output with Roam](https://learn.nateliason.com/courses/764
 To install, all you need to do is download the Roam Weekly Plan.alfredworkflow file from this repo and
 open it with Alfred. Define the snippet trigger you want to use (I like `\\xrwp`) and use it whenever you
 want to generate a new weekly plan. The script that generates the template is also available to look
-at in this repo. 
+at in this repo.
+
+### Customization
+The example script that is used by the workflow can be found in the `src/` directory. Edit this script in
+your favorite editor to include your daily habits and pages to reference. This requires no coding experience:
+just open the file and find the area that looks like the output below (starting on line 26), then edit that.
+Once done, run `make` in your terminal and it will deposit a fresh RoamWeeklyPlan.alfredworkflow file in the
+`dist/` directory. Import that into Alfred, and you'll be all set.
 
 ## Output
 An example output looks like this: 
