@@ -25,6 +25,10 @@ def generate_template():
     template = """
 Week:: [[{monday}]]
 Weekly Review:: [[Weekly Review {monday}]]
+## Overview
+    There are two ways to do your planning:
+        1. Upfront. Once a week, go through your priority projects and pull blockrefs to their TODOs to the day you want to accomplish them, nested under a blockref to the project.
+        2. One Big Thing. Pick one major item to work on (or individual TODOs that would represent one big thing to accomplish) as a project selection, and also set aside habit time.
 ## Pages to Reference
     Go through these to find priorities for upcoming week.
     [[TODO]]
@@ -37,12 +41,25 @@ Weekly Review:: [[Weekly Review {monday}]]
 	1 article or video, 1 project, 1-2 books and/or courses from above. Individual tasks filter to daily goals.
 ## Daily Goals
     Monday: [[{monday}]]
+        {{{{[[TODO]]}}}} Project selection
+        {{{{[[TODO]]}}}} Habit time
     Tuesday: [[{tuesday}]]
+        {{{{[[TODO]]}}}} Project selection
+        {{{{[[TODO]]}}}} Habit time
     Wednesday: [[{wednesday}]]
+        {{{{[[TODO]]}}}} Project selection
+        {{{{[[TODO]]}}}} Habit time
     Thursday: [[{thursday}]]
+        {{{{[[TODO]]}}}} Project selection
+        {{{{[[TODO]]}}}} Habit time
     Friday: [[{friday}]]
+        {{{{[[TODO]]}}}} Habit time
     Saturday: [[{saturday}]]
+        {{{{[[TODO]]}}}} Project selection
+        {{{{[[TODO]]}}}} Habit time
     Sunday: [[{sunday}]]
+        {{{{[[TODO]]}}}} Project selection
+        {{{{[[TODO]]}}}} Habit time
 ## [[Daily Habits]]
     If these have a daily notes attribute, add what you did to those.
     Process "Things to Process" and Writing Inbox
@@ -101,6 +118,8 @@ Weekly Review:: [[Weekly Review {monday}]]
         {{{{[[TODO]]}}}} [[{friday}]]
         {{{{[[TODO]]}}}} [[{saturday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
+    Add to [[Brag Document 2021]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
     Work on newsletter
         {{{{[[TODO]]}}}} [[{friday}]]
     Update public mind garden
